@@ -1,0 +1,26 @@
+<?php
+return [
+    'latest_projects' => 'Последние работы',
+    'from_blog'=> 'Последние записи блога',
+    'comments'=>'Комментарий|Комментария|Комментариев',
+    'read_more'=>' Читать далее',
+    'latest_projects'=>' Последние работы',
+    'latest_comments'=>' Последние комментарии',
+    'form_name'=>'Ваше имя',
+    'form_email'=>'Ваш email адресс',
+    'form_website'=>'Ваш веб сайт',
+    'form_your_comment'=>'Комментарий',
+    'filter_portfolio'=>'Фильтр работы',
+    'customer_portfolio'=>'Заказчик',
+    'view_project'=>'Подробнее о проекте',
+    'other_project'=>'Другие проекты',
+    'back_to_portfolio'=>'Назад к списку работ',
+    'welcome_to_portfolio_page'=>'Добро пожаловать на нашу страницу работ',
+    'text_for_welcome_portfolio_page'=>'... Надеюсь они вам понравятся!',
+    'welcome_to_contacts_page'=>'...Передавайте нам привет!',
+    'text_for_welcome_contacts_page'=>'свяжитесь с нашей командой по вашему вопросу',
+    'year'=>'Год',
+    'reply'=>' Ответить',
+    'articles_no' => '<h2>Записей нет</h2>',
+
+];
